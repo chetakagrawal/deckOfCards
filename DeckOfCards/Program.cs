@@ -29,6 +29,7 @@ namespace DeckOfCards
 
             Console.WriteLine("Reset the deck");
             deck.Reset();
+
         }
     }
 }
